@@ -1,0 +1,13 @@
+.header{
+  background-color: #F55A5A;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.header-text{
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+  color: #FFFFFF;
+}
